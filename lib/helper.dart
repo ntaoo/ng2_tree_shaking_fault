@@ -1,0 +1,1 @@
+export 'package:angular2/bootstrap.dart';
